@@ -1,0 +1,9 @@
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+gradio
+nltk
+newspaper3k
+fuzzywuzzy
+python-Levenshtein
