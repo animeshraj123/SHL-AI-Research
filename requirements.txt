@@ -6,4 +6,7 @@ gradio
 nltk
 newspaper3k
 fuzzywuzzy
+lxml_html_clean
 python-Levenshtein
+fastapi
+uvicorn
